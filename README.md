@@ -1,7 +1,7 @@
 # MLB-Salary-Predictions
 Using time series analysis to predict top salaries in the MLB. 
 
-- Article published on Medium: 
+- Article published on Medium: https://towardsdatascience.com/mike-trout-is-going-to-be-offered-a-lifetime-contract-this-offseason-but-should-he-take-it-190555642395
 
 # MLB Salaries
 Excel spreadsheet of top MLB annual salaries from 1874 to 2018. 

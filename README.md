@@ -5,7 +5,7 @@ Using time series analysis to predict top salaries in the MLB.
 
 # MLB Salaries
 Excel spreadsheet of top MLB annual salaries from 1874 to 2018. 
-- Original data taken from https://sabr.org/research/mlbs-annual-salary-leaders-1874-2012
+- Original data from https://sabr.org/research/mlbs-annual-salary-leaders-1874-2012
 
 # Mike Trout Time Series Project.ipynb
 Jupyter Notebook using time series forecasting to predict the highest salary for each year in the MLB.
